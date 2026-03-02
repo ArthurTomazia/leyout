@@ -21,6 +21,10 @@
     display: flex;
 }
 
-.red{
+.right{
     padding-right: 45%;
+}
+
+.botton{
+    padding-bottom: 45%;
 }
