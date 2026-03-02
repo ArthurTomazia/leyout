@@ -1,0 +1,22 @@
+.purple{
+    background-color: rgb(175, 89, 255);
+    padding: 50px;
+    border: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.blue{
+    background-color: rgb(82, 82, 255);
+    padding: 20px;
+    margin: 10px;
+}   
+
+.yellow{
+    background-color: rgb(255, 174, 51);
+    padding: 20px;
+    margin: 30px;
+}
+.flex{
+    display: flex;
+}
